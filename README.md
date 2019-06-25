@@ -1,2 +1,2 @@
 ## Huffman
-Attempt at implementing Huffman encoding on text files
+Text file huffman compression implemented in C++ 
